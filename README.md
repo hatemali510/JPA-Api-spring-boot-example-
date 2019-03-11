@@ -1,4 +1,4 @@
-# JPA-Api-spring-boot-example-
+# JPA Api spring boot example
 JPA spring boot Api example with general response Object which take any type of object and return the result to the application 
 -------------------------------------------------------------------------------------------------------------------------------
 How to use : 
